@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HelloWar">
+    <output-path>$PROJECT_DIR$/docker-dir</output-path>
+    <root id="archive" name="HelloWar.war" />
+  </artifact>
+</component>

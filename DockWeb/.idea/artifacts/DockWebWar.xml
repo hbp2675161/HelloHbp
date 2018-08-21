@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DockWebWar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DockWebWar</output-path>
+    <root id="archive" name="DockWebWar.war">
+      <element id="artifact" artifact-name="DockWeb" />
+    </root>
+  </artifact>
+</component>
